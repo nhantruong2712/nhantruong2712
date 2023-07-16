@@ -28,7 +28,7 @@
 <h3><p align="center">Table of Contents</p></h3>
 
 <img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-jam.gif" width="156" />
-<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="28" padding="0" />
+<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="28" style="'padidng': 0" />
 <img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="156" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
