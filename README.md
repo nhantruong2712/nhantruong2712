@@ -23,12 +23,12 @@
 
 <p>&nbsp;</p>
 
-<p align="center"><img height="256" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-wink-pepe.gif" /></p>
+<p align="center"><img height="256" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-peppo.gif" /></p>
 
 <h3><p align="center">Table of Contents</p></h3>
 
 <img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-jam.gif" width="156" />
-<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="75" />
+<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="28" />
 <img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="156" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
