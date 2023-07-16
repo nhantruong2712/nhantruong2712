@@ -42,7 +42,7 @@
 | 🎨 &nbsp;&nbsp;[Design](#--design) | [Adobe Photoshop](https://www.adobe.com/products/photoshop/) |
 | 🤯 &nbsp;&nbsp;[NoSQL](#--nosql) | [MongoDB](https://www.mongodb.com/) |
 | 🌙 &nbsp;&nbsp;[State Managements](#-state-managements) | [Ngxs](https://www.ngxs.io/) |
-| 📽️ &nbsp;&nbsp;[Project Managements](#-project-managements) | [Github](https://github.com/) |
+| 📽️ &nbsp;&nbsp;[Project Managements](#%EF%B8%8F-project-managements) | [Github](https://github.com/) |
 | 📦 &nbsp;&nbsp;[Package Managers](#-package-managers) | [NPM](https://npmjs.com/) |
 | 🧠 &nbsp;&nbsp;[RDBMS](#-rdbms) | [MySQL](https://www.mysql.com/) |
 | 🧬 &nbsp;&nbsp;[SaaS](#-saas) | [AWS](https://www.aws.amazon.com/) |
