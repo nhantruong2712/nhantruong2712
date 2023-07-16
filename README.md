@@ -1,8 +1,7 @@
 <p>
 <img align="left" height="210" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepefrg-47.gif" />
-
-<p align="right">👋&nbsp;&nbsp; Front-end Web Developer. Having more than 2 years experience with TS, JS, Angular, VueJS,..</p>
-<p align="right">🏫&nbsp;&nbsp; Education: DUT (Da Nang University of Science and Technoly) 2018-2022</p>
+<p align="right">💭&nbsp;&nbsp; Front-end Developer. Having more than 2 years experience with TS, JS, Angular, VueJS,..</p>
+<p align="right">🏫&nbsp;&nbsp; Education: DUT (Da Nang University of Science and Technology) 2018-2022</p>
 <p align="right">💻&nbsp;&nbsp; Favorite: Information Security, Hacking</p>
 <p align="right">🏠&nbsp;&nbsp; Location: Da Nang, Viet Nam</p>
 <p align="right">🧑&nbsp;&nbsp; Nationality: Vietnamese</p>
@@ -29,31 +28,25 @@
 <h3><p align="center">Table of Contents</p></h3>
 
 <img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-jam.gif" width="156" />
-
+<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="75" />
 <img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="156" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
+| 🙊 &nbsp;&nbsp;[Core Languages](#-core-languages) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | 🖍️ &nbsp;&nbsp;[Descriptive, Markup and Notation Languages](#%EF%B8%8F-descriptive-markup-and-notation-languages) | [JSON](https://www.json.org/j) |
-| 🍬 &nbsp;&nbsp;[Preprocessors / Transpilers](#-preprocessors--transpilers) | [SASS](https://sass-lang.com/) |
-| 🪟 &nbsp;&nbsp;[Frameworks](#-frameworks) | [Nest.js](https://nestjs.com/) |
-| 📚 &nbsp;&nbsp;[Libraries](#-libraries) | [Lodash](https://lodash.com/) |
-| 🔮 &nbsp;&nbsp;[APIs](#-apis) | [Discord](https://www.discord.com/) |
-| 🧰 &nbsp;&nbsp;[Automation Tools](#-automation-tools) | [Webpack](https://webpack.js.org/) |
-| 🧊 &nbsp;&nbsp;[Blockchains](#-blockchains) | [Cardano](https://cardano.org/) |
-| 💾 &nbsp;&nbsp;[Caching](#-caching) | [Memcached](https://memcached.org/) |
-| 🌩️ &nbsp;&nbsp;[Cloud Providers](#%EF%B8%8F--cloud-providers) | [Amazon AWS](https://aws.amazon.com/) |
+| 🍬 &nbsp;&nbsp;[Preprocessors / Transpilers](#-preprocessors--transpilers) | [TypeScript](https://www.typescriptlang.org/) |
+| 🪟 &nbsp;&nbsp;[Frameworks](#-frameworks) | [Angular](https://angular.io/) |
+| 📚 &nbsp;&nbsp;[Libraries](#-libraries) | [Rxjs](https://rxjs.io/) |
+| 🔮 &nbsp;&nbsp;[APIs](#-apis) | [Google OAuth2](https://developers.google.com/identity/protocols/oauth2/) |
 | 🎨 &nbsp;&nbsp;[Design](#--design) | [Adobe Photoshop](https://www.adobe.com/products/photoshop/) |
-| 🌐 &nbsp;&nbsp;[HTTP Servers](#-http-servers) | [nginx](https://nginx.org/) |
-| 🪵 &nbsp;&nbsp;[Logs](#-logs) | [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) |
-| 📼 &nbsp;&nbsp;[Media Encoding / Streaming / Transcoding](#-media-encoding--streaming--transcoding) | [ffmpeg](https://ffmpeg.org/) |
-| 🤯 &nbsp;&nbsp;[NoSQL](#--nosql) | [Redis](https://redis.io/) |
-| 📦 &nbsp;&nbsp;[Package Managers](#-package-managers) | [NPM](https://nodejs.org/) |
-| ⏱️ &nbsp;&nbsp;[Queues](#%EF%B8%8Fqueues) | [AWS SQS](https://aws.amazon.com/sqs/) |
+| 🤯 &nbsp;&nbsp;[NoSQL](#--nosql) | [MongoDB](https://www.mongodb.com/) |
+| 📦 &nbsp;&nbsp;[State Managements](#-state-managements) | [Ngxs](https://www.ngxs.io/) |
+| 📦 &nbsp;&nbsp;[Project Managements](#-project-managers) | [Github](https://github.com/) |
+| 📦 &nbsp;&nbsp;[Package Managers](#-package-managers) | [NPM](https://npmjs.com/) |
 | 🧠 &nbsp;&nbsp;[RDBMS](#-rdbms) | [MySQL](https://www.mysql.com/) |
-| 🧬 &nbsp;&nbsp;[SaaS](#-saas) | [Vercel](https://www.vercel.com/) |
-| 🔍 &nbsp;&nbsp;[Search](#-search) | [OpenSearch](https://opensearch.org/) |
-| 🧺 &nbsp;&nbsp;[Templates](#-templates) | [Handlebars](https://handlebarsjs.com/) |
+| 🧬 &nbsp;&nbsp;[SaaS](#-saas) | [AWS](https://www.aws.amazon.com/) |
+| 🔐 &nbsp;&nbsp;[Security](#-security) | [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) |
 | ⛑️ &nbsp;&nbsp;[Testing](#%EF%B8%8F-testing) | [BrowserStack](https://www.browserstack.com/) |
 | 🪐 &nbsp;&nbsp;[Virtualization](#-virtualization) | [Docker](https://www.docker.com/) |
 
@@ -72,7 +65,7 @@
 | [CSS](https://www.w3.org/Style/CSS/Overview.en.html) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
 | [GraphQL](https://graphql.org/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
-| [Python](https://www.python.org/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Python](https://www.python.org/) | 2018 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
@@ -90,8 +83,8 @@
 | ---- | -------- | ------- | --------- | -------- | ------------------ |
 | [LESS](https://lesscss.org/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [SASS](https://sass-lang.com/) | CSS | 2018 | Daily | ❤️ | ⭐⭐⭐ |
-| [SCSS](https://sass-lang.com/) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
-| [TypeScript](https://www.typescriptlang.org/) | JavaScript | 2019 | On Demand | ✖️ | ⭐⭐⭐ |
+| [SCSS](https://sass-lang.com/) | CSS | 2018 | Daily | ❤️ | ⭐⭐⭐ |
+| [TypeScript](https://www.typescriptlang.org/) | JavaScript | 2019 | Daily | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -103,7 +96,7 @@
 | [Bootstrap](https://getbootstrap.com/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Tailwinds](https://tailwindcss.com/) | CSS | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Vue.js](https://vuejs.org/) | JavaScript | 2021 | On Demand | ❤️ | ⭐⭐⭐ |
-
+| [Django](https://djangoproject.com/) | Python | 2018 | On Demand | ❤️ | ⭐⭐ |
 ---
 
 ### 📚 &nbsp;&nbsp;Libraries
@@ -121,9 +114,9 @@
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [Facebook OAuth2](https://www.facebook.com/) | 2019 | On Demand | ✖️ | ⭐⭐⭐ |
-| [Google OAuth2](https://developers.google.com/identity/protocols/oauth2) | 2019 | On Demand | ✖️ | ⭐⭐⭐ |
-| [Twilio](https://www.twilio.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
+| [Facebook OAuth2](https://www.facebook.com/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Google OAuth2](https://developers.google.com/identity/protocols/oauth2) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Twilio](https://www.twilio.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -134,33 +127,15 @@
 
 ---
 
-### 🪵 &nbsp;&nbsp;Another Skills
-| Name | Started | Frequency | Favorite | Experience (1 - 5) |
-| ---- | ------- | --------- | -------- | ------------------ |
-| English | 2013 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
-|  | 2018 | Daily | ❤️ | ⭐⭐⭐ | 
----
-
-### 📼 &nbsp;&nbsp;Media Encoding / Streaming / Transcoding
-| Name | Started | Frequency | Favorite | Experience (1 - 5) |
-| ---- | ------- | --------- | -------- | ------------------ |
-| [ATI Avivo](https://en.wikipedia.org/wiki/ATI_Avivo) | 2007 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
-| [ffmpeg](https://ffmpeg.org/) | 2007 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
-| [Microsoft Expression Encoder](https://en.wikipedia.org/wiki/Microsoft_Expression_Encoder) | 2007 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
-| [Red5](https://github.com/Red5/red5-server) | 2017 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
-| [Wowza](https://www.wowza.com/) | 2017 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
-
----
-
 ### 🤯  &nbsp;&nbsp;NoSQL
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [MongoDB](https://www.mongodb.com/) | 2013 | On Demand | ✖️ | ⭐⭐⭐ |
+| [MongoDB](https://www.mongodb.com/) | 2021 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
-### 🌙 &nbsp;&nbsp;State Management
+### 🌙 &nbsp;&nbsp;State Managements
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
@@ -169,24 +144,34 @@
 
 ---
 
+### 📽️ &nbsp;&nbsp;Project Managements
+
+| Name | Started | Frequency | Favorite | Experience (1 - 5) |
+| ---- | ------- | --------- | -------- | ------------------ |
+| [Monday](https://www.monday.com/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Github](https://www.github.com/) | 2022 | Daily | ❤️ | ⭐⭐⭐⭐ |
+| [Trello](https://www.github.com/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+---
+
 ### 📦 &nbsp;&nbsp;Package Managers
 
-| Name | Langauge | Started | Frequency | Favorite | Experience (1 - 5) |
+| Name | Language | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | -------- | ------- | --------- | -------- | ------------------ |
-| [NPM](https://nodejs.org/) | Node.js | 2009 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
-| [Yarn](https://yarnpkg.com/) | Node.js | 2017 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
-
+| [NPM](https://npmjs.com/) | Node.js | 2018 | Daily | ❤️ | ⭐⭐⭐⭐ |
+| [Yarn](https://yarnpkg.com/) | Node.js | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Nx](https://nx.dev/) | Node.js | 2022 | On Demand | ❤️ | ⭐⭐ |
+| [Pip](https://pypi.org/) | Python | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 ---
 
 ### 🧠 &nbsp;&nbsp;RDBMS
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [Microsoft SQL](https://www.microsoft.com/en-us/sql-server) | 2005 | On Demand | ✖️ | ⭐ |
-| [MySQL](https://www.mysql.com/) | 2004 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
-| [PostgreSQL](https://www.postgresql.org/) | 2005 | On Demand | ✖️ | ⭐⭐⭐ |
-| [SQLite](https://www.sqlite.org/) | 2013 | On Demand | ✖️ | ⭐⭐⭐ |
-
+| [Microsoft SQL](https://www.microsoft.com/en-us/sql-server) | 2018 | On Demand | ✖️ | ⭐⭐ |
+| [MySQL](https://www.mysql.com/) | 2019 | On Demand | ❤️ | ⭐⭐ |
+| [PostgreSQL](https://www.postgresql.org/) | 2022 | On Demand | ✖️ | ⭐⭐ |
+| [SQLite](https://www.sqlite.org/) | 2018 | On Demand | ✖️ | ⭐⭐ |
+| [Studio3T](https://www.studio3t.com/) | 2022 | On Demand | ✖️ | ⭐⭐ |
 ---
 
 ### 🧬 &nbsp;&nbsp;SaaS
@@ -205,11 +190,10 @@
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [SQL Injection](https://aws.amazon.com/api-gateway/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
-| [XSS](https://aws.amazon.com/cloudfront/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
-| [Cookie](https://aws.amazon.com/s3/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
-| [Antiforgery](https://www.twilio.com/) | 2023 | On Demand | ❤️ | ⭐⭐ |
-| [CSRF](https://www.vercel.com/) | 2023 | On Demand | ❤️ | ⭐⭐ |
+| [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [XSS](https://owasp.org/www-community/attacks/xss) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
+| [CSRF](https://owasp.org/www-community/attacks/csrf) | 2023 | On Demand | ❤️ | ⭐⭐ |
 | [Iframe](https://www.w3schools.com/tags/tag_iframe.ASP) | 2022 | On Demand | ❤️ | ⭐⭐⭐⭐ |
 ---
 
@@ -219,7 +203,7 @@
 | ---- | ------- | --------- | -------- | ------------------ |
 | [BrowserStack](https://www.browserstack.com/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Selenium](https://www.selenium.dev/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
-| [JestJs](https://www.jestjs.io/) | 2022 | On Demand | ✖️ | ⭐⭐ |
+| [JestJs](https://www.jestjs.io/) | 2022 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
