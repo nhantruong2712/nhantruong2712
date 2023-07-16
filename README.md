@@ -36,13 +36,13 @@
 | 🙊 &nbsp;&nbsp;[Core Languages](#-core-languages) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | 🖍️ &nbsp;&nbsp;[Descriptive, Markup and Notation Languages](#%EF%B8%8F-descriptive-markup-and-notation-languages) | [JSON](https://www.json.org/j) |
 | 🍬 &nbsp;&nbsp;[Preprocessors / Transpilers](#-preprocessors--transpilers) | [TypeScript](https://www.typescriptlang.org/) |
-| 🪟 &nbsp;&nbsp;[Frameworks](#-frameworks) | [Angular](https://angular.io/) |
-| 📚 &nbsp;&nbsp;[Libraries](#-libraries) | [Rxjs](https://rxjs.io/) |
+| ⭐ &nbsp;&nbsp;[Frameworks](#frameworks) | [Angular](https://angular.io/) |
+| 📚 &nbsp;&nbsp;[Libraries](#-libraries) | [Rxjs](https://rxjs.dev/) |
 | 🔮 &nbsp;&nbsp;[APIs](#-apis) | [Google OAuth2](https://developers.google.com/identity/protocols/oauth2/) |
 | 🎨 &nbsp;&nbsp;[Design](#--design) | [Adobe Photoshop](https://www.adobe.com/products/photoshop/) |
 | 🤯 &nbsp;&nbsp;[NoSQL](#--nosql) | [MongoDB](https://www.mongodb.com/) |
-| 📦 &nbsp;&nbsp;[State Managements](#-state-managements) | [Ngxs](https://www.ngxs.io/) |
-| 📦 &nbsp;&nbsp;[Project Managements](#-project-managers) | [Github](https://github.com/) |
+| 🌙 &nbsp;&nbsp;[State Managements](#-state-managements) | [Ngxs](https://www.ngxs.io/) |
+| 📽️ &nbsp;&nbsp;[Project Managements](#-project-managements) | [Github](https://github.com/) |
 | 📦 &nbsp;&nbsp;[Package Managers](#-package-managers) | [NPM](https://npmjs.com/) |
 | 🧠 &nbsp;&nbsp;[RDBMS](#-rdbms) | [MySQL](https://www.mysql.com/) |
 | 🧬 &nbsp;&nbsp;[SaaS](#-saas) | [AWS](https://www.aws.amazon.com/) |
@@ -114,7 +114,7 @@
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [Facebook OAuth2](https://www.facebook.com/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Facebook OAuth2](https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Google OAuth2](https://developers.google.com/identity/protocols/oauth2) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Twilio](https://www.twilio.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
 
@@ -150,7 +150,7 @@
 | ---- | ------- | --------- | -------- | ------------------ |
 | [Monday](https://www.monday.com/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Github](https://www.github.com/) | 2022 | Daily | ❤️ | ⭐⭐⭐⭐ |
-| [Trello](https://www.github.com/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Trello](https://www.trello.com/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 ---
 
 ### 📦 &nbsp;&nbsp;Package Managers
