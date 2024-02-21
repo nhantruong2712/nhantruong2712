@@ -143,6 +143,7 @@
 | ---- | ------- | --------- | -------- | ------------------ |
 | [Ngxs](https://www.ngxs.io/) | 2022 | Daily | ❤️ | ⭐⭐⭐ |
 | [Ngrx](https://www.ngrx.io/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Vuex](https://vuex.vuejs.org/) | 2021 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
