@@ -125,7 +125,7 @@
 ### 🎨  &nbsp;&nbsp;Design
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [Adobe Photoshop](https://www.adobe.com/products/photoshop/) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
+| [Adobe Photoshop](https://www.adobe.com/products/photoshop/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -153,6 +153,8 @@
 | [Monday](https://www.monday.com/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Github](https://www.github.com/) | 2022 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Trello](https://www.trello.com/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Jira](https://www.atlassian.com/software/jira) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Click Up](https://clickup.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -170,11 +172,11 @@
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
-| [Microsoft SQL](https://www.microsoft.com/en-us/sql-server) | 2018 | On Demand | ✖️ | ⭐⭐ |
+| [Microsoft SQL](https://www.microsoft.com/en-us/sql-server) | 2018 | On Demand | ❤️ | ⭐⭐ |
 | [MySQL](https://www.mysql.com/) | 2019 | On Demand | ❤️ | ⭐⭐ |
-| [PostgreSQL](https://www.postgresql.org/) | 2022 | On Demand | ✖️ | ⭐⭐ |
-| [SQLite](https://www.sqlite.org/) | 2018 | On Demand | ✖️ | ⭐⭐ |
-| [Studio3T](https://www.studio3t.com/) | 2022 | On Demand | ✖️ | ⭐⭐ |
+| [PostgreSQL](https://www.postgresql.org/) | 2022 | On Demand | ❤️ | ⭐⭐ |
+| [SQLite](https://www.sqlite.org/) | 2018 | On Demand | ❤️ | ⭐⭐ |
+| [Studio3T](https://www.studio3t.com/) | 2022 | On Demand | ❤️ | ⭐⭐ |
 ---
 
 ### 🧬 &nbsp;&nbsp;SaaS
