@@ -116,6 +116,8 @@
 | ---- | ------- | --------- | -------- | ------------------ |
 | [Facebook OAuth2](https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Google OAuth2](https://developers.google.com/identity/protocols/oauth2) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Google Tag Management](https://marketingplatform.google.com/about/tag-manager/) | 2024 | On Demand | ❤️ | ⭐⭐ |
+| [Google Analytics 4](https://developers.google.com/analytics/devguides/collection/ga4) | 2024 | On Demand | ❤️ | ⭐⭐ |
 | [Twilio](https://www.twilio.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
 
 ---
