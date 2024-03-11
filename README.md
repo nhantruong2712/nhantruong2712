@@ -49,6 +49,7 @@
 | 🔐 &nbsp;&nbsp;[Security](#-security) | [Cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) |
 | ⛑️ &nbsp;&nbsp;[Testing](#%EF%B8%8F-testing) | [BrowserStack](https://www.browserstack.com/) |
 | 🪐 &nbsp;&nbsp;[Virtualization](#-virtualization) | [Docker](https://www.docker.com/) |
+| 🔍 &nbsp;&nbsp;[Code Analysis](#-code-analysis) | [Sentry](https://www.sentry.io/welcome/) |
 
 <p>&nbsp;</p>
 
@@ -220,6 +221,16 @@
 | [Docker](https://www.docker.com/) | 2021 | On Demand | ❤️ | ⭐⭐ |
 | [VirtualBox](https://www.virtualbox.org/) | 2019 | On Demand | ❤️ | ⭐⭐ |
 | [VMWare](https://www.vmware.com/) | 2019 | On Demand | ❤️ | ⭐⭐ |
+
+---
+
+### 🔍 &nbsp;&nbsp;Code Analysis
+
+| Name | Started | Frequency | Favorite | Experience (1 - 5) |
+| ---- | ------- | --------- | -------- | ------------------ |
+| [Sentry](https://www.sentry.io/welcome) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Codacy](https://www.codacy.com/) | 2023 | On Demand | ❤️ | ⭐ |
+| [DeepSource](https://www.deepsource.com/) | 2023 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
