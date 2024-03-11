@@ -242,5 +242,5 @@
 </p>
 
 <p align="center">
-	Don't be scared, drop me a line.
+	Don't hesitate, drop me a line.
 </p>
