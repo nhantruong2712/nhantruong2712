@@ -1,6 +1,6 @@
 <p>
 <img align="left" height="210" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepefrg-47.gif" />
-<p align="right">💭&nbsp;&nbsp; Front-end Developer. Having ~3 years experience with TS, JS, Angular, VueJS,..</p>
+<p align="right">💭&nbsp;&nbsp; Front-end Software Engineer. Having more than 3 years experience with TS, JS, Angular, VueJS,..</p>
 <p align="right">🏫&nbsp;&nbsp; Education: DUT (Da Nang University of Science and Technology) 2018-2022</p>
 <p align="right">💻&nbsp;&nbsp; Favorite: Information Security, Hacking</p>
 <p align="right">🏠&nbsp;&nbsp; Location: Da Nang, Viet Nam</p>
