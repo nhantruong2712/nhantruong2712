@@ -83,7 +83,7 @@
 | Name | Language | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | -------- | ------- | --------- | -------- | ------------------ |
 | [LESS](https://lesscss.org/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
-| [SASS](https://sass-lang.com/) | CSS | 2018 | Daily | ❤️ | ⭐⭐⭐ |
+| [SASS](https://sass-lang.com/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [SCSS](https://sass-lang.com/) | CSS | 2018 | Daily | ❤️ | ⭐⭐⭐ |
 | [TypeScript](https://www.typescriptlang.org/) | JavaScript | 2019 | Daily | ❤️ | ⭐⭐⭐ |
 
