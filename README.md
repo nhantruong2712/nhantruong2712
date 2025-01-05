@@ -76,6 +76,7 @@
 | ---- | ------- | --------- | -------- | ------------------ |
 | [HTML](https://html.spec.whatwg.org/) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
 | [JSON](https://www.json.org/j) | 2018 | Daily | ❤️ | ⭐⭐⭐ |
+
 ----
 
 ### 🍬 &nbsp;&nbsp;Preprocessors / Transpilers
@@ -97,7 +98,10 @@
 | [Bootstrap](https://getbootstrap.com/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Tailwinds](https://tailwindcss.com/) | CSS | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Vue.js](https://vuejs.org/) | JavaScript | 2021 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Nuxtjs](https://nuxt.com/) | JavaScript | 2021 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Django](https://djangoproject.com/) | Python | 2018 | On Demand | ❤️ | ⭐⭐ |
+| [Electron](https://electronjs.org/) | JavaScript | 2024 | On Demand | ❤️ | ⭐⭐ |
+
 ---
 
 ### 📚 &nbsp;&nbsp;Libraries
@@ -109,6 +113,10 @@
 | [JWT](https://jwt.io/) | JavaScript | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Socket.IO](https://socket.io/) | JavaScript | 2022 | Daily | ❤️ | ⭐⭐⭐ |
 | [Rxjs](https://rxjs.dev/) | JavaScript | 2022 | Daily | ❤️ | ⭐⭐⭐ |
+| [React](https://react.dev/) | JavaScript | 2023 | Daily | ❤️ | ⭐⭐⭐ |
+| [Lit Element](https://lit.dev/) | JavaScript | 2023 | Daily | ❤️ | ⭐⭐⭐ |
+| [StoryBook](https://storybook.js.org/) | JavaScript | 2024 | Daily | ❤️ | ⭐⭐⭐ |
+
 ---
 
 ### 🔮 &nbsp;&nbsp;APIs
@@ -128,6 +136,7 @@
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
 | [Adobe Photoshop](https://www.adobe.com/products/photoshop/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Figma](https://www.figma.com/) | 2021 | Daily | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -146,6 +155,7 @@
 | [Ngxs](https://www.ngxs.io/) | 2022 | Daily | ❤️ | ⭐⭐⭐ |
 | [Ngrx](https://www.ngrx.io/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Vuex](https://vuex.vuejs.org/) | 2021 | On Demand | ❤️ | ⭐⭐ |
+| [Redux](https://redux.js.org/) | 2022 | Daily | ❤️ | ⭐⭐⭐ |
 
 ---
 
@@ -158,6 +168,7 @@
 | [Trello](https://www.trello.com/) | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Jira](https://www.atlassian.com/software/jira) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Click Up](https://clickup.com/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Confluence](https://www.atlassian.com/software/confluence) | 2023 | Daily | ❤️ | ⭐⭐⭐ |
 
 ---
 
