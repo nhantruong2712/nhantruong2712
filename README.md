@@ -27,9 +27,9 @@
 
 <h3><p align="center">Table of Contents</p></h3>
 
-<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-jam.gif" width="156" />
-<img align="left" style="padding-right: 0" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/whiteimage.png" width="28"  />
-<img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="156" />
+<img align="left" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-jam.gif" width="120" />
+
+<img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="120" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
