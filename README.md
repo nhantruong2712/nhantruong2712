@@ -223,6 +223,8 @@
 | [BrowserStack](https://www.browserstack.com/) | 2022 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Selenium](https://www.selenium.dev/) | 2019 | On Demand | ❤️ | ⭐⭐⭐ |
 | [JestJs](https://www.jestjs.io/) | 2022 | On Demand | ❤️ | ⭐⭐ |
+| [Vitest](https://www.vitest.dev/) | 2023 | On Demand | ❤️ | ⭐⭐⭐ |
+| [Karma](https://karma-runner.github.io/) | 2023 | On Demand | ❤️ | ⭐⭐ |
 
 ---
 
