@@ -31,6 +31,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/nhantruong2712/nhantruong2712/main/images/pepe-jam-reverse.gif" width="120" />
 
+<div align="center">
+
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
 | 🙊 &nbsp;&nbsp;[Core Languages](#-core-languages) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
@@ -51,6 +53,7 @@
 | 🪐 &nbsp;&nbsp;[Virtualization](#-virtualization) | [Docker](https://www.docker.com/) |
 | 🔍 &nbsp;&nbsp;[Code Analysis](#-code-analysis) | [Sentry](https://www.sentry.io/welcome/) |
 
+</div>
 <p>&nbsp;</p>
 
 ---
