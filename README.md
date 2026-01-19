@@ -98,6 +98,7 @@
 | Name | Language | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | -------- | ------- | --------- | -------- | ------------------ |
 | [Angular](https://angular.io/) | JavaScript | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
+| [React](https://react.dev/) | JavaScript | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Bootstrap](https://getbootstrap.com/) | CSS | 2018 | On Demand | ❤️ | ⭐⭐⭐ |
 | [Tailwinds](https://tailwindcss.com/) | CSS | 2021 | Daily | ❤️ | ⭐⭐⭐⭐ |
 | [Vue.js](https://vuejs.org/) | JavaScript | 2021 | On Demand | ❤️ | ⭐⭐⭐ |
